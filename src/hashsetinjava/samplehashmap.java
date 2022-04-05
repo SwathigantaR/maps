@@ -7,8 +7,8 @@ public class samplehashmap {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		HashMap<Integer,String>  map=new HashMap<>();
-		  map.put(1,"swathi");
-		  map.put(2,"papa");
+// 		  map.put(1,"swathi");
+// 		  map.put(2,"papa");
 		  map.put(3, "xyz");
 		  map.put(4, "xyz");
 		  map.put(5,"abc");
